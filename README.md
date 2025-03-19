@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::::
 🔭 I’m currently working on a startup idea<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning react and dsa
 
 
